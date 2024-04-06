@@ -1,0 +1,5 @@
+- npm i -g pm2
+- pm2 start ecosystem.config.js
+- pm2 status
+- pm2 dashboard
+- pm2 monit
